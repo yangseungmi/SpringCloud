@@ -1,2 +1,2 @@
-# SpringCloudConfigServer
-Spring Cloud Config Server
+# SpringCloud
+Spring Cloud 
